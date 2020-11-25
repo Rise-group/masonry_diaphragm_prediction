@@ -4,6 +4,10 @@
 
 
 
+
+
+
+
 Use of Deep Learning Models in Street Level Images to Classify One-Story Unreinforced Masonry Buildings Based on Roof Diaphragm
 ===========================================================================================
 
