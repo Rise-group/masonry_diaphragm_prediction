@@ -1,4 +1,7 @@
-<img src="figs/PEAKurban.png" alt="PEAK Urban logo" align="mid" width ="200" height="133">
+<img src="logos/logoCAGE2.png" alt="CAGE UIS logo" align="left" width ="200" height="133">
+<img src="logos/PEAKurban.png" alt="PEAK Urban logo" align="left" width ="200" height="133">
+<img src="logos/logo_rise_eafit.png" alt="RISE logo" align="left" width ="400" height="133">
+
 
 
 Use of Deep Learning Models in Street Level Images to Classify One-Story Unreinforced Masonry Buildings Based on Roof Diaphragm
