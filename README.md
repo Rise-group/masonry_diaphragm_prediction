@@ -1,6 +1,6 @@
+<img src="logos/logoCAGE2.png" alt="CAGE UIS logo" align="left" width ="200" height="133">
 <img src="logos/logo_rise_eafit.png" alt="RISE logo" align="left" width ="400" height="133">    
-<img src="logos/PEAKurban.png" alt="PEAK Urban logo" align="left" width ="200" height="133">
-<img src="logos/logoCAGE2.png" alt="CAGE UIS logo" align="left" width ="200" height="133">  
+<img src="logos/PEAKurban.png" alt="PEAK Urban logo" align="middle" width ="200" height="133">
 
 
 
